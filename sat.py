@@ -100,8 +100,10 @@ def benchmark(solvers: Dict[str, type], cnf: CNF, runs: int = 5) -> Dict[str, Di
             result = solver.solve(cnf)
             times.append(time.perf_counter() - start)
         avg_time = sum(times) / runs
+        avg_time_ms = (sum(times) / runs) * 1000
         results[name] = {
             'time': avg_time,
+            'time_ms': avg_time_ms,
             'result': result,
             'clauses': len(cnf),
             'variables': len({abs(l) for clause in cnf for l in clause})
@@ -112,6 +114,10 @@ def benchmark(solvers: Dict[str, type], cnf: CNF, runs: int = 5) -> Dict[str, Di
 sat_cnf = [[1, 2], [-1, 2], [1, -2]]
 unsat_cnf = [[1], [-1]]
 medium_cnf = [[1, 2, 3], [-1, 4], [-2, -3], [-4, 5], [-5, 6], [-6, 7], [-7]]
+# UNUSED TEST CASES (debug purposes)
+conflict_cnf = [[1], [-1, 2], [-2, 3], [-3, 1]]
+forced_false = [[1], [2], [-1, -2], [-1], [-2]]
+circular_sat = [[-1, 2], [-2, 3], [-3, 1], [4]]
 
 solvers = {
     'DPLL': DPLLSolver,
