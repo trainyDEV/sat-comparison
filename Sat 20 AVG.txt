@@ -1,0 +1,103 @@
+Time results of 20 Runs with the 3 basic test cases. (Miliseconds only)
+
+1.
+Testing SAT case: {'DPLL': {'time_ms': 0.009400000044479384}, 'DP': {'time_ms': 0.0038738000057492177}, 'Resolution': {'time_ms': 0.025887599986162968}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0030098000024736393}, 'DP': {'time_ms': 0.0011982000160060124}, 'Resolution': {'time_ms': 0.003238199951738352}}
+Testing Medium case: {'DPLL': {'time_ms': 0.015535599959548563}, 'DP': {'time_ms': 0.01174759995592467}, 'Resolution': {'time_ms': 7.025763399951757}}
+
+2.
+Testing SAT case: {'DPLL': {'time_ms': 0.012132000119891018}, 'DP': {'time_ms': 0.004427999920153525}, 'Resolution': {'time_ms': 0.0349000001733657}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.003576000381144695}, 'DP': {'time_ms': 0.0014980001651565544}, 'Resolution': {'time_ms': 0.004189999890513718}}
+Testing Medium case: {'DPLL': {'time_ms': 0.019857999905070756}, 'DP': {'time_ms': 0.013357999887375627}, 'Resolution': {'time_ms': 2.5101840001298115}}
+
+3.
+Testing SAT case: {'DPLL': {'time_ms': 0.006811599996581208}, 'DP': {'time_ms': 0.003299200034234673}, 'Resolution': {'time_ms': 0.022819600053480826}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.003099999958067201}, 'DP': {'time_ms': 0.0016684001820976846}, 'Resolution': {'time_ms': 0.004720000288216397}}
+Testing Medium case: {'DPLL': {'time_ms': 0.017115599621320143}, 'DP': {'time_ms': 0.011395999899832532}, 'Resolution': {'time_ms': 2.202717599720927}}
+
+4.
+Testing SAT case: {'DPLL': {'time_ms': 0.00710319982317742}, 'DP': {'time_ms': 0.003324000135762617}, 'Resolution': {'time_ms': 0.023057799990056083}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0025444000129937194}, 'DP': {'time_ms': 0.0010599998859106563}, 'Resolution': {'time_ms': 0.002848000258381944}}
+Testing Medium case: {'DPLL': {'time_ms': 0.014458600344369188}, 'DP': {'time_ms': 0.009035599941853434}, 'Resolution': {'time_ms': 1.5884403999734786}}
+
+5.
+Testing SAT case: {'DPLL': {'time_ms': 0.006486000347649679}, 'DP': {'time_ms': 0.003274000118835829}, 'Resolution': {'time_ms': 0.022932000138098374}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0036679997720057145}, 'DP': {'time_ms': 0.0010500001735636033}, 'Resolution': {'time_ms': 0.0032240001019090414}}
+Testing Medium case: {'DPLL': {'time_ms': 0.014041999929759186}, 'DP': {'time_ms': 0.009391999992658384}, 'Resolution': {'time_ms': 1.8334557998969103}}
+
+6.
+Testing SAT case: {'DPLL': {'time_ms': 0.0076660002378048375}, 'DP': {'time_ms': 0.003206000110367313}, 'Resolution': {'time_ms': 0.022973999875830486}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0026319998141843826}, 'DP': {'time_ms': 0.00102400008472614}, 'Resolution': {'time_ms': 0.004553999860945623}}
+Testing Medium case: {'DPLL': {'time_ms': 0.018889999773819}, 'DP': {'time_ms': 0.012396000238368288}, 'Resolution': {'time_ms': 1.813011999729497}}
+
+7.
+Testing SAT case: {'DPLL': {'time_ms': 0.008115999844449107}, 'DP': {'time_ms': 0.004492000334721524}, 'Resolution': {'time_ms': 0.03573800022422802}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0034380002034595236}, 'DP': {'time_ms': 0.0014779998309677467}, 'Resolution': {'time_ms': 0.004149999949731864}}
+Testing Medium case: {'DPLL': {'time_ms': 0.02031599997280864}, 'DP': {'time_ms': 0.016774000141595025}, 'Resolution': {'time_ms': 2.4708720002308837}}
+
+8.
+Testing SAT case: {'DPLL': {'time_ms': 0.006984000174270477}, 'DP': {'time_ms': 0.0030679999326821417}, 'Resolution': {'time_ms': 0.022624000121140853}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0031120000130613334}, 'DP': {'time_ms': 0.0015680001524742693}, 'Resolution': {'time_ms': 0.0044660000639851205}}
+Testing Medium case: {'DPLL': {'time_ms': 0.01820800007408252}, 'DP': {'time_ms': 0.01228199998877244}, 'Resolution': {'time_ms': 1.5754799998831004}}
+
+9.
+Testing SAT case: {'DPLL': {'time_ms': 0.006984000174270477}, 'DP': {'time_ms': 0.0030679999326821417}, 'Resolution': {'time_ms': 0.022624000121140853}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0031120000130613334}, 'DP': {'time_ms': 0.0015680001524742693}, 'Resolution': {'time_ms': 0.0044660000639851205}}
+Testing Medium case: {'DPLL': {'time_ms': 0.01820800007408252}, 'DP': {'time_ms': 0.01228199998877244}, 'Resolution': {'time_ms': 1.5754799998831004}}
+
+10.
+Testing SAT case: {'DPLL': {'time_ms': 0.006984000174270477}, 'DP': {'time_ms': 0.0030679999326821417}, 'Resolution': {'time_ms': 0.022624000121140853}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0031120000130613334}, 'DP': {'time_ms': 0.0015680001524742693}, 'Resolution': {'time_ms': 0.0044660000639851205}}
+Testing Medium case: {'DPLL': {'time_ms': 0.01820800007408252}, 'DP': {'time_ms': 0.01228199998877244}, 'Resolution': {'time_ms': 1.5754799998831004}}
+
+11.
+Testing SAT case: {'DPLL': {'time_ms': 0.007258000368892681}, 'DP': {'time_ms': 0.0032580001061432995}, 'Resolution': {'time_ms': 0.022216000070329756}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.002758000118774362}, 'DP': {'time_ms': 0.0009880001016426831}, 'Resolution': {'time_ms': 0.0028180002118460834}}
+Testing Medium case: {'DPLL': {'time_ms': 0.013536000187741593}, 'DP': {'time_ms': 0.00876199992490001}, 'Resolution': {'time_ms': 1.5362500002083834}}
+
+12.
+Testing SAT case: {'DPLL': {'time_ms': 0.008866199641488492}, 'DP': {'time_ms': 0.0036697998439194635}, 'Resolution': {'time_ms': 0.02275240003655199}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.002710000080696773}, 'DP': {'time_ms': 0.0010540001312620007}, 'Resolution': {'time_ms': 0.0027719999707187526}}
+Testing Medium case: {'DPLL': {'time_ms': 0.01537000007374445}, 'DP': {'time_ms': 0.009590000081516337}, 'Resolution': {'time_ms': 1.558666199889558}}
+
+13.
+Testing SAT case: {'DPLL': {'time_ms': 0.00686999992467463}, 'DP': {'time_ms': 0.0031440002203453332}, 'Resolution': {'time_ms': 0.02715799982979661}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0034460001188563183}, 'DP': {'time_ms': 0.0015800002074684016}, 'Resolution': {'time_ms': 0.00465199991595}}
+Testing Medium case: {'DPLL': {'time_ms': 0.018584000099508557}, 'DP': {'time_ms': 0.012256000081833918}, 'Resolution': {'time_ms': 1.541264000297815}}
+
+14.
+Testing SAT case: {'DPLL': {'time_ms': 0.00686999992467463}, 'DP': {'time_ms': 0.0031440002203453332}, 'Resolution': {'time_ms': 0.02715799982979661}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0034460001188563183}, 'DP': {'time_ms': 0.0015800002074684016}, 'Resolution': {'time_ms': 0.00465199991595}}
+Testing Medium case: {'DPLL': {'time_ms': 0.018584000099508557}, 'DP': {'time_ms': 0.012256000081833918}, 'Resolution': {'time_ms': 1.541264000297815}}
+
+15.
+Testing SAT case: {'DPLL': {'time_ms': 0.00686999992467463}, 'DP': {'time_ms': 0.0031440002203453332}, 'Resolution': {'time_ms': 0.02715799982979661}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0034460001188563183}, 'DP': {'time_ms': 0.0015800002074684016}, 'Resolution': {'time_ms': 0.00465199991595}}
+Testing Medium case: {'DPLL': {'time_ms': 0.018584000099508557}, 'DP': {'time_ms': 0.012256000081833918}, 'Resolution': {'time_ms': 1.541264000297815}}
+
+16.
+Testing SAT case: {'DPLL': {'time_ms': 0.00686999992467463}, 'DP': {'time_ms': 0.0031440002203453332}, 'Resolution': {'time_ms': 0.02715799982979661}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0034460001188563183}, 'DP': {'time_ms': 0.0015800002074684016}, 'Resolution': {'time_ms': 0.00465199991595}}
+Testing Medium case: {'DPLL': {'time_ms': 0.018584000099508557}, 'DP': {'time_ms': 0.012256000081833918}, 'Resolution': {'time_ms': 1.541264000297815}}
+
+17.
+Testing SAT case: {'DPLL': {'time_ms': 0.008843599971442018}, 'DP': {'time_ms': 0.004836000152863562}, 'Resolution': {'time_ms': 0.0392178002584842}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.0038181997297215275}, 'DP': {'time_ms': 0.0016502001017215662}, 'Resolution': {'time_ms': 0.004738200004794635}}
+Testing Medium case: {'DPLL': {'time_ms': 0.021334200209821574}, 'DP': {'time_ms': 0.01456400023016613}, 'Resolution': {'time_ms': 2.0933760000843904}}
+
+18.
+Testing SAT case: {'DPLL': {'time_ms': 0.007155599996622186}, 'DP': {'time_ms': 0.0031898001907393336}, 'Resolution': {'time_ms': 0.03246620017307578}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.002879999919969123}, 'DP': {'time_ms': 0.0015603998690494336}, 'Resolution': {'time_ms': 0.004489800085138995}}
+Testing Medium case: {'DPLL': {'time_ms': 0.018061399714497384}, 'DP': {'time_ms': 0.012171599883004092}, 'Resolution': {'time_ms': 1.6972585997791612}}
+
+19.
+Testing SAT case: {'DPLL': {'time_ms': 0.006482200114987791}, 'DP': {'time_ms': 0.0037462001273524947}, 'Resolution': {'time_ms': 0.022552399786945898}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.002990200118802022}, 'DP': {'time_ms': 0.0016563999452046119}, 'Resolution': {'time_ms': 0.0046377999751712196}}
+Testing Medium case: {'DPLL': {'time_ms': 0.018633799845702015}, 'DP': {'time_ms': 0.012247999984538183}, 'Resolution': {'time_ms': 1.844198199978564}}
+
+20.
+Testing SAT case: {'DPLL': {'time_ms': 0.0063297999076894484}, 'DP': {'time_ms': 0.003137800013064407}, 'Resolution': {'time_ms': 0.02296800012118183}}
+Testing UNSAT case: {'DPLL': {'time_ms': 0.004135999915888533}, 'DP': {'time_ms': 0.0016182000763365068}, 'Resolution': {'time_ms': 0.0035701998058357276}}
+Testing Medium case: {'DPLL': {'time_ms': 0.01578759984113276}, 'DP': {'time_ms': 0.009175999730359763}, 'Resolution': {'time_ms': 1.5160218003074988}}
+
+ 
