@@ -6,4 +6,4 @@ This Repository was made in order to distribute the code used and results for my
 
 SAT Algorithms used include **DP, DPLL and Resolution.**
 
-Included in the repository is the code used and 20 test runs that made up the average in my research paper.
+Included in the repository is the code used and 20 test runs that made up the average time in my research paper.
