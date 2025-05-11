@@ -1,9 +1,33 @@
 # SAT Comparison: Python Implementations of DPLL, DP, and Resolution Algorithms
 
+This project provides Python implementations of three SAT (Boolean Satisfiability Problem) solving algorithms:
 
+- **DP (Davis–Putnam)**
+- **DPLL (Davis–Putnam–Logemann–Loveland)**
+- **Resolution-based Solving**
 
-This Repository was made in order to distribute the code used and results for my SAT paper.
+---
 
-SAT Algorithms used include **DP, DPLL and Resolution.**
+## Repository Contents
 
-Included in the repository is the code used and 20 test runs that made up the average time in my research paper.
+- `solver.py`: Main script implementing the SAT solvers.
+- `Sat 20 AVG.txt`: Time performance results from 20 runs, used in the research paper.
+- `README.md`: Project documentation (this file).
+
+---
+
+## ⚙️ Prerequisites
+
+- Python 3.6 or higher.
+- No external libraries are required.
+
+---
+
+## 🛠 Customizing Inputs
+To test your own CNF formulas:
+
+1. Prepare your CNF input (as a list of clauses).
+
+2. Modify solver.py to load and process your CNF input.
+
+3. Run the script.
